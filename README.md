@@ -8,7 +8,7 @@ Source code for a Movie Trailer website.
 Installation
 ============
 you can make a clone of this project with this command
-	git clone https://github.com/abu-3abed/ud036_StarterCode
+	        git clone https://github.com/abu-3abed/ud036_StarterCode.git
 you can install **IMDbPY** using pip package manager
 	pip install imdbpy
 more information on **IMDbPY** in its [documentation](https://imdbpy.readthedocs.io/)
