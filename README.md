@@ -9,7 +9,7 @@ Installation
 ============
 you can make a clone of this project with this command
 
-	git clone https://github.com/abu-3abed/ud036_StarterCode.git
+	git clone https://github.com/abu-3abed/udacity-fresh-tomatoes.git
 or you can download it manually by pressing 'Clone or download' and then 'Download ZIP'.
 
 starting project
@@ -24,5 +24,5 @@ more information on **IMDbPY** Python library in its [documentation](https://imd
 after installing IMDbPY you can run the project by running 'fresh_tomatoes.py' file from cmd. run this command on the project directory:
 
 	python fresh_tomatoes.py
----
+
 Thank you for using my project!!
