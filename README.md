@@ -25,4 +25,5 @@ after installing IMDbPY you can run the project by running 'fresh_tomatoes.py' f
 
 	python fresh_tomatoes.py
 
+
 Thank you for using my project!!
