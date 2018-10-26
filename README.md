@@ -15,7 +15,7 @@ or you can download it manually by pressing 'Clone or download' and then 'Downlo
 starting project
 ================
 
-after installing project ypu haveyou can install **IMDbPY** using pip package manager by entering this in your command line:
+after cloning the project you can install **IMDbPY** using pip package manager by entering this in your command line:
 
 	pip install imdbpy
 	
